@@ -1,0 +1,433 @@
+School,L,T,W,win_perc
+A&M-Corpus Christi,8,4,22,0.294117647
+Abilene Christian,18,3,11,0.609375
+Air Force,33,9,64,0.353773585
+Akron,43,12,46,0.485148515
+Ala.-Huntsville,1,0,1,0.5
+Alabama,61,8,48,0.555555556
+Alabama A&M,28,3,54,0.347058824
+Alabama St.,36,1,41,0.467948718
+Albany (NY),46,3,45,0.505319149
+Alcorn,6,2,29,0.189189189
+Alcorn St.,6,2,16,0.291666667
+American,41,13,51,0.452380952
+Appalachian St.,41,21,37,0.52020202
+Arizona,50,11,58,0.466386555
+Arizona St.,57,12,44,0.557522124
+Ark.-Pine Bluff,31,8,40,0.443037975
+Arkansas,60,7,47,0.557017544
+Arkansas St.,45,7,56,0.449074074
+Armstrong St.,1,0,0,1
+Army,44,12,28,0.595238095
+Army West Point,8,4,14,0.384615385
+Auburn,90,9,28,0.744094488
+AUM,0,0,1,0
+Austin,2,0,2,0.5
+Austin Peay,53,13,32,0.607142857
+Bakersfield,4,1,9,0.321428571
+Ball St.,69,16,21,0.726415094
+Baylor,67,12,27,0.688679245
+Bellarmine,1,1,0,0.75
+Belmont,37,14,35,0.511627907
+Binghamton,37,16,39,0.489130435
+Birmingham-So.,5,0,2,0.714285714
+Boise St.,51,18,30,0.606060606
+Boston College,95,13,28,0.746323529
+Boston U.,96,7,18,0.82231405
+Bowling Green,48,8,58,0.456140351
+Brown,51,15,32,0.596938776
+Bryant,34,8,35,0.493506494
+Bucknell,63,6,32,0.653465347
+Buffalo,52,15,37,0.572115385
+Butler,67,11,35,0.64159292
+BYU,102,13,16,0.828244275
+BYU-Hawaii,0,0,1,0
+Cal Poly,51,9,38,0.566326531
+Cal St. Fullerton,63,16,38,0.606837607
+Cal St. Northridge,41,6,23,0.628571429
+California,82,13,28,0.719512195
+Campbell,47,6,36,0.561797753
+Canisius,51,9,33,0.596774194
+Centenary (LA),11,3,22,0.347222222
+Central Ark.,45,9,40,0.526595745
+Central Conn. St.,54,11,28,0.639784946
+Central Mich.,71,10,21,0.745098039
+Centre,2,0,0,1
+Charleston So.,53,12,36,0.584158416
+Charlotte,78,8,28,0.719298246
+Chattanooga,23,13,61,0.304123711
+Chicago St.,0,1,28,0.017241379
+Christian Bros.,1,0,0,1
+Cincinnati,56,16,35,0.598130841
+Citadel,23,3,51,0.318181818
+Clayton St.,2,0,0,1
+Clemson,60,12,42,0.578947368
+Cleveland St.,40,9,47,0.463541667
+Coastal Caro.,54,5,21,0.70625
+Col. of Charleston,57,9,43,0.564220183
+Colgate,61,7,36,0.620192308
+Colorado,78,12,36,0.666666667
+Colorado Col.,81,13,29,0.711382114
+Colorado St.,9,6,26,0.292682927
+Columbia,54,13,23,0.672222222
+Columbus St.,1,0,0,1
+Concordia (TX),1,0,0,1
+Connecticut,51,11,21,0.680722892
+Converse,1,0,0,1
+Cornell,26,6,56,0.329545455
+Creighton,59,13,40,0.584821429
+CSU Bakersfield,9,1,17,0.351851852
+CSUN,23,9,8,0.6875
+Dallas,3,0,0,1
+Dallas Baptist,1,0,0,1
+Dartmouth,55,9,21,0.7
+Davidson,53,14,47,0.526315789
+Dayton,78,9,22,0.756880734
+Delaware,48,11,37,0.557291667
+Delaware St.,12,5,26,0.337209302
+Delta St.,2,0,3,0.4
+Denver,75,6,18,0.787878788
+DePaul,57,12,41,0.572727273
+DePauw,0,0,3,0
+Detroit,44,9,22,0.646666667
+Detroit Mercy,1,1,6,0.1875
+Dixie St.,1,0,0,1
+Drake,48,12,37,0.556701031
+Drexel,54,14,34,0.598039216
+Duke,92,20,21,0.766917293
+Duquesne,51,9,43,0.538834951
+East Carolina,60,12,35,0.61682243
+East Tenn. St.,39,5,20,0.6484375
+East Tex. Baptist,1,0,0,1
+East. Mennonite,1,0,0,1
+Eastern Ill.,45,13,45,0.5
+Eastern Ky.,43,12,38,0.52688172
+Eastern Mich.,56,20,33,0.605504587
+Eastern Wash.,40,7,37,0.517857143
+Elon,46,19,37,0.544117647
+Embry-Riddle (FL),0,0,1,0
+Emory,1,0,0,1
+ETSU,20,1,10,0.661290323
+Evansville,55,10,37,0.588235294
+Fairfield,51,16,33,0.59
+Fairleigh Dickinson,55,7,37,0.590909091
+FGCU,38,3,7,0.822916667
+Findlay,0,0,1,0
+FIU,46,7,46,0.5
+Fla. Atlantic,53,12,45,0.536363636
+Fla. Gulf Coast,28,6,11,0.688888889
+Fla. Southern,1,0,0,1
+Flagler,1,0,0,1
+Florida,106,5,19,0.834615385
+Florida St.,130,6,10,0.910958904
+Fordham,61,15,27,0.665048544
+Fort Wayne,3,2,15,0.2
+Francis Marion,10,2,10,0.5
+Fresno Pacific,0,0,1,0
+Fresno St.,52,8,37,0.577319588
+Furman,74,9,27,0.713636364
+Ga. Southern,36,13,47,0.442708333
+Ga. Southwestern,0,0,1,0
+Gardner-Webb,38,16,44,0.469387755
+George Mason,63,2,46,0.576576577
+George Washington,60,8,37,0.60952381
+Georgetown,93,13,20,0.78968254
+Georgia,65,8,43,0.594827586
+Georgia St.,44,14,38,0.53125
+Gonzaga,49,9,50,0.49537037
+Grambling,32,3,47,0.408536585
+Grand Canyon,20,6,16,0.547619048
+Green Bay,29,15,46,0.405555556
+Greensboro,1,0,0,1
+Hampton,0,0,8,0
+Harding,3,1,2,0.583333333
+Hartford,60,19,32,0.626126126
+Harvard,61,15,24,0.685
+Hawaii,50,12,48,0.509090909
+Hendrix,1,1,1,0.5
+High Point,55,15,26,0.651041667
+Hofstra,78,7,20,0.776190476
+Hollins,0,0,1,0
+Holy Cross,31,17,60,0.365740741
+Houston,43,14,46,0.485436893
+Houston Baptist,23,7,20,0.53
+Howard,28,5,42,0.406666667
+Idaho,38,10,41,0.483146067
+Idaho St.,39,13,40,0.494565217
+Ill.-Chicago,13,3,19,0.414285714
+Illinois,74,5,29,0.708333333
+Illinois St.,71,7,24,0.730392157
+Incarnate Word,7,7,23,0.283783784
+Indiana,58,17,43,0.563559322
+Indiana St.,43,6,44,0.494623656
+Iona,33,13,55,0.391089109
+Iowa,62,6,43,0.585585586
+Iowa St.,39,8,45,0.467391304
+IPFW,19,5,44,0.316176471
+IUPUI,45,19,38,0.534313725
+Jackson St.,46,14,29,0.595505618
+Jacksonville,49,11,37,0.56185567
+Jacksonville St.,43,12,49,0.471153846
+James Madison,83,5,35,0.695121951
+Kansas,64,4,46,0.578947368
+Kansas St.,5,1,6,0.458333333
+Kennesaw St.,56,9,29,0.643617021
+Kent St.,65,7,32,0.658653846
+Kentucky,77,16,35,0.6640625
+Ky. Wesleyan,0,0,1,0
+La Salle,68,10,25,0.708737864
+La.-Lafayette,37,14,36,0.505747126
+La.-Monroe,37,3,69,0.353211009
+Lafayette,33,10,52,0.4
+Lamar,30,3,29,0.508064516
+Lamar University,7,1,6,0.535714286
+Lehigh,48,16,33,0.577319588
+LeTourneau,1,0,1,0.5
+Liberty,60,7,23,0.705555556
+Lincoln (PA),0,0,2,0
+Lipscomb,33,11,50,0.409574468
+Little Rock,18,4,4,0.769230769
+LIU Brooklyn,50,5,33,0.596590909
+Long Beach St.,73,16,27,0.698275862
+Longwood,44,5,20,0.673913043
+Louisiana,3,0,5,0.375
+Louisiana Col.,0,0,5,0
+Louisiana Tech,58,11,29,0.647959184
+Louisville,62,13,38,0.60619469
+Loyola Chicago,55,8,39,0.578431373
+Loyola Maryland,49,15,30,0.60106383
+Loyola Marymount,72,15,33,0.6625
+LSU,67,22,31,0.65
+Lynn,0,0,1,0
+Maine,45,13,23,0.635802469
+Manhattan,43,12,39,0.521276596
+Marist,52,10,37,0.575757576
+Marquette,98,12,21,0.79389313
+Mars Hill,1,0,0,1
+Marshall,45,14,36,0.547368421
+Mary Washington,1,0,0,1
+Maryland,66,19,39,0.608870968
+Maryville (TN),0,0,1,0
+Massachusetts,58,8,40,0.58490566
+McNeese,6,1,5,0.541666667
+McNeese St.,38,7,33,0.532051282
+Memphis,84,8,24,0.75862069
+Mercer,59,12,29,0.65
+Methodist,0,0,1,0
+Miami (FL),60,8,38,0.603773585
+Miami (OH),65,10,40,0.608695652
+Michigan,77,25,23,0.716
+Michigan St.,68,12,40,0.616666667
+Middle Tenn.,68,12,33,0.654867257
+Millsaps,5,0,5,0.5
+Milwaukee,83,12,19,0.780701754
+Minnesota,73,14,30,0.683760684
+Mississippi Col.,2,0,1,0.666666667
+Mississippi St.,41,11,62,0.407894737
+Mississippi Val.,42,12,34,0.545454545
+Missouri,80,9,31,0.704166667
+Missouri S&T,0,1,1,0.25
+Missouri St.,54,13,30,0.62371134
+Monmouth,82,7,17,0.806603774
+Montana,38,16,31,0.541176471
+Morehead St.,46,12,34,0.565217391
+Mt. St. Mary's,28,9,62,0.328282828
+Murray St.,59,7,34,0.625
+Navy,100,11,25,0.775735294
+NC State,10,1,1,0.875
+Neb. Omaha,3,2,12,0.235294118
+Nebraska,74,18,33,0.664
+Nevada,39,11,51,0.440594059
+New Hampshire,41,15,41,0.5
+New Mexico,56,13,28,0.644329897
+New Mexico St.,26,6,36,0.426470588
+Newberry,1,0,0,1
+Niagara,57,8,36,0.603960396
+Nicholls St.,31,8,46,0.411764706
+NJIT,21,7,39,0.365671642
+North Ala.,2,0,2,0.5
+North Carolina,103,8,19,0.823076923
+North Carolina St.,51,5,59,0.465217391
+North Dakota,12,6,32,0.3
+North Dakota St.,46,1,18,0.715384615
+North Florida,39,5,40,0.494047619
+North Texas,90,8,15,0.831858407
+Northeastern,64,15,30,0.655963303
+Northern Ariz.,59,18,30,0.635514019
+Northern Colo.,55,13,34,0.602941176
+Northern Ill.,42,20,42,0.5
+Northern Ky.,24,5,19,0.552083333
+Northwestern,58,15,47,0.545833333
+Northwestern St.,46,9,37,0.548913043
+Notre Dame,124,5,20,0.848993289
+Oakland,54,13,36,0.587378641
+Oglethorpe,0,0,2,0
+Ohio,47,10,47,0.5
+Ohio St.,90,13,30,0.72556391
+Oklahoma,54,16,44,0.543859649
+Oklahoma St.,98,12,18,0.8125
+Old Dominion,52,16,40,0.555555556
+Ole Miss,77,18,34,0.666666667
+Omaha,16,3,11,0.583333333
+Oral Roberts,47,7,38,0.548913043
+Oregon,55,14,47,0.534482759
+Oregon St.,53,17,46,0.530172414
+Ozarks (AR),0,0,2,0
+Pacific,41,10,54,0.438095238
+Penn,71,14,24,0.71559633
+Penn St.,115,10,18,0.839160839
+Pepperdine,79,20,21,0.741666667
+Pfeiffer,1,0,0,1
+Pittsburgh,44,14,49,0.476635514
+Portland,92,7,29,0.74609375
+Portland St.,47,12,32,0.582417582
+Prairie View,33,5,34,0.493055556
+Presbyterian,27,8,48,0.373493976
+Princeton,63,12,24,0.696969697
+Providence,57,10,41,0.574074074
+Purdue,78,16,43,0.627737226
+Quincy,1,0,0,1
+Quinnipiac,51,11,28,0.627777778
+Radford,58,7,27,0.668478261
+Rhode Island,51,7,51,0.5
+Rhodes,0,0,1,0
+Rice,65,14,27,0.679245283
+Richmond,48,8,35,0.571428571
+Rider,48,13,32,0.586021505
+Robert Morris,39,13,41,0.489247312
+Rockhurst,1,0,0,1
+Rutgers,102,14,18,0.813432836
+S.C. Aiken,0,0,1,0
+S.C. Upstate,9,1,30,0.2375
+Sacramento St.,49,15,34,0.576530612
+Sacred Heart,42,10,32,0.55952381
+Saint Francis (PA),61,14,28,0.660194175
+Saint Joseph's,60,12,34,0.622641509
+Saint Louis,63,18,29,0.654545455
+Saint Mary's (CA),5,0,6,0.454545455
+Saint Peter's,13,2,82,0.144329897
+Sam Houston St.,43,6,35,0.547619048
+Samford,80,15,24,0.735294118
+San Diego,69,9,34,0.65625
+San Diego St.,76,17,27,0.704166667
+San Francisco,47,13,42,0.524509804
+San Jose St.,47,9,40,0.536458333
+Santa Clara,90,18,20,0.7734375
+Schreiner,2,1,0,0.833333333
+Seattle,29,2,9,0.75
+Seattle U,2,2,3,0.428571429
+Seton Hall,37,13,49,0.439393939
+Sewanee,0,0,2,0
+SFA,15,1,4,0.775
+Siena,65,12,23,0.71
+SIU Edwardsville,20,4,16,0.55
+SIUE,19,5,10,0.632352941
+SMU,68,11,37,0.63362069
+South Ala.,62,12,37,0.612612613
+South Carolina,103,9,20,0.814393939
+South Carolina St.,18,5,33,0.366071429
+South Dakota,17,5,24,0.423913043
+South Dakota St.,57,12,22,0.692307692
+South Fla.,69,18,27,0.684210526
+Southeast Mo. St.,52,18,23,0.655913978
+Southeastern La.,65,13,24,0.700980392
+Southern California,72,9,35,0.659482759
+Southern Ind.,0,0,2,0
+Southern Miss.,40,13,52,0.442857143
+Southern U.,20,4,55,0.278481013
+Southern Utah,27,11,37,0.433333333
+Southwest Baptist,0,0,1,0
+Southwestern (TX),4,0,0,1
+St. Bonaventure,47,7,45,0.51010101
+St. John's (NY),71,15,23,0.720183486
+St. Mary's (CA),41,13,45,0.47979798
+St. Mary's (TX),1,0,0,1
+Stanford,135,12,9,0.903846154
+Stephen F. Austin,56,1,11,0.830882353
+Stetson,39,7,35,0.524691358
+Stony Brook,56,14,34,0.605769231
+Syracuse,44,17,36,0.541237113
+TCU,55,14,41,0.563636364
+Temple,43,10,49,0.470588235
+Tennessee,77,11,32,0.6875
+Tennessee Tech,34,12,47,0.430107527
+Tex. A&M Int'l,0,1,0,0.5
+Tex. A&M-Commerce,1,0,0,1
+Tex.-Pan American,1,0,3,0.25
+Texas,80,19,27,0.71031746
+Texas A&M,121,9,18,0.847972973
+Texas Lutheran,3,0,1,0.75
+Texas Southern,32,2,38,0.458333333
+Texas St.,66,6,39,0.621621622
+Texas Tech,75,6,30,0.702702703
+Texas Woman's,1,0,1,0.5
+Texas-Dallas,1,1,0,0.75
+Texas-Tyler,0,1,1,0.25
+The Citadel,7,0,19,0.269230769
+Toledo,78,10,32,0.691666667
+Towson,37,8,49,0.436170213
+Trinity (TX),4,0,0,1
+Troy,58,4,40,0.588235294
+Tulsa,67,13,37,0.628205128
+UAB,50,8,40,0.551020408
+UALR,38,3,40,0.487654321
+UC Davis,46,13,41,0.525
+UC Irvine,64,10,36,0.627272727
+UC Riverside,43,14,44,0.495049505
+UC Santa Barbara,55,14,39,0.574074074
+UC-Colo. Springs,0,0,1,0
+UCF,83,14,18,0.782608696
+UCLA,132,10,12,0.88961039
+UConn,37,3,6,0.836956522
+UL Lafayette,8,1,9,0.472222222
+UMass Lowell,16,4,20,0.45
+UMBC,33,15,51,0.409090909
+UMKC,34,11,25,0.564285714
+UNC Asheville,35,3,58,0.380208333
+UNC Greensboro,52,8,27,0.643678161
+UNC Pembroke,1,0,0,1
+UNC Wilmington,38,5,26,0.586956522
+UNCG,14,5,11,0.55
+UNCW,20,6,9,0.657142857
+UNI,28,9,41,0.416666667
+Union (TN),0,0,1,0
+UNLV,68,9,31,0.671296296
+USC Upstate,7,7,33,0.223404255
+UT Martin,59,7,30,0.651041667
+Utah,70,14,34,0.652542373
+Utah St.,65,17,23,0.7
+Utah Valley,40,8,16,0.6875
+UTEP,78,9,29,0.711206897
+UTRGV,11,2,9,0.545454545
+UTSA,33,13,45,0.434065934
+Valparaiso,58,16,29,0.640776699
+Vanderbilt,53,16,47,0.525862069
+VCU,54,21,28,0.626213592
+Vermont,37,17,45,0.45959596
+Villanova,60,13,42,0.57826087
+Virginia,133,11,18,0.854938272
+Virginia Tech,76,16,31,0.682926829
+VMI,34,2,59,0.368421053
+Wagner,33,11,54,0.392857143
+Wake Forest,78,11,29,0.707627119
+Washington,56,12,40,0.574074074
+Washington St.,65,12,30,0.663551402
+Washington-St. Louis,1,0,0,1
+Weber St.,33,10,40,0.457831325
+West Ala.,1,0,0,1
+West Virginia,115,17,16,0.834459459
+Western Caro.,54,8,43,0.552380952
+Western Ill.,34,5,36,0.486666667
+Western Ky.,74,9,27,0.713636364
+Western Mich.,53,14,32,0.606060606
+Westminster (UT),0,0,2,0
+William & Mary,79,8,26,0.734513274
+Wilmington (DE),0,1,0,0.5
+Winthrop,47,13,38,0.545918367
+Wisconsin,73,14,27,0.701754386
+Wofford,37,16,46,0.454545455
+Wright St.,59,10,24,0.688172043
+Wyoming,55,13,40,0.569444444
+Xavier,41,12,46,0.474747475
+Yale,63,13,32,0.643518519
+Youngstown St.,25,11,51,0.350574713
